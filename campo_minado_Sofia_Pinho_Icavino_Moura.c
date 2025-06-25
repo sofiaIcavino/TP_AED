@@ -347,5 +347,5 @@ int verificar_Coordenada_Repetida(int linha, int coluna,int ** matriz_copia){
    return 0;
  }
 
- // Exemplo: adicionar esse comentário no início
+
 // Testando commit para GitHub
