@@ -346,6 +346,3 @@ int verificar_Coordenada_Repetida(int linha, int coluna,int ** matriz_copia){
 
    return 0;
  }
-
-
-// Testando commit para GitHub
